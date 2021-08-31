@@ -1,7 +1,23 @@
-Olá, tudo bem? Meu nome é Victor Lima, tenho 20 anos e moro em Brasília no Distrito Federal. Meu objetivo é me tornar um Desenvolvedor em T, tendo uma base sólida de Front-End e uma parcela de conhecimento de diversas áreas da programação, para assim contribuir de múltiplas formas em projetos e aplicações.
-Procuro sempre ser proativo e resolver os problemas com criatividade e inovação, e sempre fui maravilhado com o papel da tecnologia e de como ela possui diversas variações que mudam o mundo.
-
-Você pode entrar em contato comigo através do:
-  - Email: victorlimass409@gmail.com
-  - Linkedin: https://www.linkedin.com/in/victor-lima-505677211/
-
+## Olá, meu nome é Victor Lima 
+ <div>
+  <a href="https://github.com/victorlimass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlimass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimass&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Victor-gif" src="https://c.tenor.com/jD4sqQ5G6hIAAAAj/sonic-running.gif">
+    
+</div>
+  
+  ##
+  
+  <div> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+</div>
