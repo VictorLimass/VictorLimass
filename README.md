@@ -5,4 +5,3 @@ Você pode entrar em contato comigo através do:
   - Email: victorlimass409@gmail.com
   - Linkedin: https://www.linkedin.com/in/victor-lima-505677211/
 
-Também tenho um blog onde documento e registro meu aprendizado e evolução na área de desenvolvimento: https://victorlimass.wordpress.com/
