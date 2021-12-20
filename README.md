@@ -14,14 +14,10 @@
 </div>
   
   ##
-  
-  <div> 
-  <a href = "mailto:victorlimass409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-lima-505677211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   
-
-  
-</div>
+  <center>
+    <h1>Github Update  </h1>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=victorlimass&theme=radical&show_icons=true">
+    <img awidth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimass&layout=compact&theme=radical">
+</center>
  
   ![Snake animation](https://github.com/icarogarcez/icarogarcez/blob/output/github-contribution-grid-snake.svg)
