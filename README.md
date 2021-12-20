@@ -1,5 +1,5 @@
 ## Hi, I am Victor Lima
-## I am a Full Stack Developer
+## Full Stack Developer
 - I'm working with React and Ruby on Rails
 - I want to collaborate and study with other developers
  <div>
