@@ -1,6 +1,5 @@
 ## Hi, I am Victor Lima
 ## Software Developer
-- I'm working with React and Ruby on Rails
 - I want to collaborate and study with other developers
  <div>
     <h1>Github Stats </h1>
